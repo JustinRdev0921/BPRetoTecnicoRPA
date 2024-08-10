@@ -1,0 +1,37 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "CantidadContactos&Flowchart_1",
+        "inputApellido&Flowchart_1",
+        "rutaArchivo&Flowchart_1",
+        "captchaTable&Sequence_2",
+        "tablaDeDatos&Sequence_22",
+        "captchaText&Sequence_22",
+        "indiceFila&Sequence_22",
+        "imageName&Sequence_22",
+        "elementoImg&Sequence_22",
+        "datosRegistros&Sequence_22",
+        "datosTelefonicos&Sequence_22",
+        "datosTelefonicosSort&Sequence_22",
+        "intentosCaptcha&Sequence_22",
+        "captchaOK&Sequence_22",
+        "inputEmail&Flowchart_1",
+        "inputProvincia&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
